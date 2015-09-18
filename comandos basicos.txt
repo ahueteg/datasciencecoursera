@@ -1,0 +1,6 @@
+git remote add origin https://github.com/ahueteg/datasciencecoursera
+git pull origin master
+git add '*.*'
+git commit -m 'add hello'
+git push -u origin master
+git clone 
